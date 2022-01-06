@@ -100,5 +100,6 @@ cd bin
 You will see a bunch of `fontconfig` errors. I am aware of that, but notice that modelsim launches perfectly. If you know how to avoid this fontconfig errors, let me know!
 
 Citations:
-[https://pcotret.github.io/modelsim-ubuntu/](https://pcotret.github.io/modelsim-ubuntu/)
+[https://pcotret.github.io/modelsim-ubuntu/](https://pcotret.github.io/modelsim-ubuntu/)  
+
 [http://twoerner.blogspot.com/2017/10/running-modelsim-altera-from-quartus.html](http://twoerner.blogspot.com/2017/10/running-modelsim-altera-from-quartus.html)
