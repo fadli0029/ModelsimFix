@@ -48,7 +48,7 @@ Next, find the following line:
 ```
 vco="linux_rh60"
 ```
-And replace it with the following:
+And change to only says "linux":
 ```
 vco="linux"
 ```
