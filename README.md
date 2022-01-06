@@ -97,7 +97,7 @@ cd bin
 ./vsim
 ```
 
-You will see a bunch of `fontconfig` errors. I am aware of that, but notice that modelsim launches perfectly. If you know how to avoid this fontconfig errors, let me know!  
+You will see a bunch of `fontconfig` errors. I am aware of that, but notice that modelsim launches perfectly (If you know how to avoid this fontconfig errors, let me know!). And don't worry because when you launched it from the Quartus software via "run simulation", you shouldn't see this error.  
 
 
 ### Citations:  
