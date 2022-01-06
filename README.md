@@ -1,5 +1,5 @@
 ## The issue: 
-The free version of __ModelSim-Intel FPGA Edition__ that came with __Quartus Prime Lite 19.1__ only works with 32-bit system. The Quartus Prime itself works perfect.
+The free version of __ModelSim-Intel FPGA Edition__ that came with __Quartus Prime Lite 19.1__ only works with 32-bit system for Linux. The Quartus Prime itself works perfect.
 
 ---
 
