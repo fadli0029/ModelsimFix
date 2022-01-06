@@ -97,9 +97,10 @@ cd bin
 ./vsim
 ```
 
-You will see a bunch of `fontconfig` errors. I am aware of that, but notice that modelsim launches perfectly. If you know how to avoid this fontconfig errors, let me know!
+You will see a bunch of `fontconfig` errors. I am aware of that, but notice that modelsim launches perfectly. If you know how to avoid this fontconfig errors, let me know!  
 
-Citations:  
+
+### Citations:  
 
 [https://pcotret.github.io/modelsim-ubuntu/](https://pcotret.github.io/modelsim-ubuntu/)  
 
